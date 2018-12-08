@@ -1,1 +1,1 @@
-print("kek")
+print("kek" * 9999999)
